@@ -1,7 +1,6 @@
-# -Cloud-Security-with-AWS-IAM
+# AWS IAM Cloud Security Project
 A hands-on project showcasing how to manage AWS resources securely using IAM. This includes creating users, defining IAM policies with JSON, and using user groups to control permissions. 
 
-# AWS IAM Cloud Security Project
 
 ## Overview
 This project demonstrates the use of **AWS Identity and Access Management (IAM)** to manage users, groups, and permissions in a cloud environment. The focus is on securely controlling access to AWS resources, with a particular emphasis on setting up **IAM policies**, **user groups**, and **tags** for resource organization.
